@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PatikaEgitim.iml" filepath="$PROJECT_DIR$/.idea/PatikaEgitim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_-Ucgen-Alani-Hesaplama/Patika_-Ucgen-Alani-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_-Ucgen-Alani-Hesaplama/Patika_-Ucgen-Alani-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_3-Sayi-Siralama/Patika_3-Sayi-Siralama.iml" filepath="$PROJECT_DIR$/Patika_3-Sayi-Siralama/Patika_3-Sayi-Siralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_3-Ve-4-Bolunen-Sayilarin-Ortalamasi/Patika_3-Ve-4-Bolunen-Sayilarin-Ortalamasi.iml" filepath="$PROJECT_DIR$/Patika_3-Ve-4-Bolunen-Sayilarin-Ortalamasi/Patika_3-Ve-4-Bolunen-Sayilarin-Ortalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_3-veya-4-un-kuvvetleri/Patika_3-veya-4-un-kuvvetleri.iml" filepath="$PROJECT_DIR$/Patika_3-veya-4-un-kuvvetleri/Patika_3-veya-4-un-kuvvetleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Artik-Yil-Hesaplama/Patika_Artik-Yil-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_Artik-Yil-Hesaplama/Patika_Artik-Yil-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Asal-Sayi/Patika_Asal-Sayi.iml" filepath="$PROJECT_DIR$/Patika_Asal-Sayi/Patika_Asal-Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Asal-Sayi-Recursive/Patika_Asal-Sayi-Recursive.iml" filepath="$PROJECT_DIR$/Patika_Asal-Sayi-Recursive/Patika_Asal-Sayi-Recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Atm/Patika_Atm.iml" filepath="$PROJECT_DIR$/Patika_Atm/Patika_Atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Basamak-Sayilari-Toplama/Patika_Basamak-Sayilari-Toplama.iml" filepath="$PROJECT_DIR$/Patika_Basamak-Sayilari-Toplama/Patika_Basamak-Sayilari-Toplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Boks-Oyunu/Patika_Boks-Oyunu.iml" filepath="$PROJECT_DIR$/Patika_Boks-Oyunu/Patika_Boks-Oyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Burc-Bulan-Program/Patika_Burc-Bulan-Program.iml" filepath="$PROJECT_DIR$/Patika_Burc-Bulan-Program/Patika_Burc-Bulan-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Cin-Zodyagi-Hesaplama/Patika_Cin-Zodyagi-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_Cin-Zodyagi-Hesaplama/Patika_Cin-Zodyagi-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Cok-Boyutlu-Dizi-Pratik/Patika_Cok-Boyutlu-Dizi-Pratik.iml" filepath="$PROJECT_DIR$/Patika_Cok-Boyutlu-Dizi-Pratik/Patika_Cok-Boyutlu-Dizi-Pratik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Daire-Dilimi-Alan/Patika_Daire-Dilimi-Alan.iml" filepath="$PROJECT_DIR$/Patika_Daire-Dilimi-Alan/Patika_Daire-Dilimi-Alan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Ebob-Ekok/Patika_Ebob-Ekok.iml" filepath="$PROJECT_DIR$/Patika_Ebob-Ekok/Patika_Ebob-Ekok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Elmas/Patika_Elmas.iml" filepath="$PROJECT_DIR$/Patika_Elmas/Patika_Elmas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Etkinlik-Onderme/Patika_Etkinlik-Onderme.iml" filepath="$PROJECT_DIR$/Patika_Etkinlik-Onderme/Patika_Etkinlik-Onderme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Fibonacci/Patika_Fibonacci.iml" filepath="$PROJECT_DIR$/Patika_Fibonacci/Patika_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Girilen-Sayiya-En-Yakin-Sayilar/Patika_Girilen-Sayiya-En-Yakin-Sayilar.iml" filepath="$PROJECT_DIR$/Patika_Girilen-Sayiya-En-Yakin-Sayilar/Patika_Girilen-Sayiya-En-Yakin-Sayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Harmonik-Ortalama/Patika_Harmonik-Ortalama.iml" filepath="$PROJECT_DIR$/Patika_Harmonik-Ortalama/Patika_Harmonik-Ortalama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Harmonik-Seri/Patika_Harmonik-Seri.iml" filepath="$PROJECT_DIR$/Patika_Harmonik-Seri/Patika_Harmonik-Seri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Hesap-Makinesi/Patika_Hesap-Makinesi.iml" filepath="$PROJECT_DIR$/Patika_Hesap-Makinesi/Patika_Hesap-Makinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Hesap-Makinesi-V2/Patika_Hesap-Makinesi-V2.iml" filepath="$PROJECT_DIR$/Patika_Hesap-Makinesi-V2/Patika_Hesap-Makinesi-V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_KDV-Hesaplama/Patika_KDV-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_KDV-Hesaplama/Patika_KDV-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Kombinasyon/Patika_Kombinasyon.iml" filepath="$PROJECT_DIR$/Patika_Kombinasyon/Patika_Kombinasyon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Kullanici-Girisi/Patika_Kullanici-Girisi.iml" filepath="$PROJECT_DIR$/Patika_Kullanici-Girisi/Patika_Kullanici-Girisi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Kuvvet-Alma/Patika_Kuvvet-Alma.iml" filepath="$PROJECT_DIR$/Patika_Kuvvet-Alma/Patika_Kuvvet-Alma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Maas-Hesaplayici/Patika_Maas-Hesaplayici.iml" filepath="$PROJECT_DIR$/Patika_Maas-Hesaplayici/Patika_Maas-Hesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Manav-Kasa-Programi/Patika_Manav-Kasa-Programi.iml" filepath="$PROJECT_DIR$/Patika_Manav-Kasa-Programi/Patika_Manav-Kasa-Programi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Max-ve-Min-Bulma/Patika_Max-ve-Min-Bulma.iml" filepath="$PROJECT_DIR$/Patika_Max-ve-Min-Bulma/Patika_Max-ve-Min-Bulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Mukemmel-Sayi/Patika_Mukemmel-Sayi.iml" filepath="$PROJECT_DIR$/Patika_Mukemmel-Sayi/Patika_Mukemmel-Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Not-Ortalama/Patika_Not-Ortalama.iml" filepath="$PROJECT_DIR$/Patika_Not-Ortalama/Patika_Not-Ortalama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Ogrenci-Bilgi-Sistemi/Patika_Ogrenci-Bilgi-Sistemi.iml" filepath="$PROJECT_DIR$/Patika_Ogrenci-Bilgi-Sistemi/Patika_Ogrenci-Bilgi-Sistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Polindrom-Sayilar/Patika_Polindrom-Sayilar.iml" filepath="$PROJECT_DIR$/Patika_Polindrom-Sayilar/Patika_Polindrom-Sayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Recursive-Example/Patika_Recursive-Example.iml" filepath="$PROJECT_DIR$/Patika_Recursive-Example/Patika_Recursive-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Sinif-Gecme-Durumu/Patika_Sinif-Gecme-Durumu.iml" filepath="$PROJECT_DIR$/Patika_Sinif-Gecme-Durumu/Patika_Sinif-Gecme-Durumu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Taksimetre-Hesaplama/Patika_Taksimetre-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_Taksimetre-Hesaplama/Patika_Taksimetre-Hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Tek-Sayilarin-Ortalamasi/Patika_Tek-Sayilarin-Ortalamasi.iml" filepath="$PROJECT_DIR$/Patika_Tek-Sayilarin-Ortalamasi/Patika_Tek-Sayilarin-Ortalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Ters-Ucgen/Patika_Ters-Ucgen.iml" filepath="$PROJECT_DIR$/Patika_Ters-Ucgen/Patika_Ters-Ucgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Ucak-Bileti-Fiyati-Hesaplayan-Program/Patika_Ucak-Bileti-Fiyati-Hesaplayan-Program.iml" filepath="$PROJECT_DIR$/Patika_Ucak-Bileti-Fiyati-Hesaplayan-Program/Patika_Ucak-Bileti-Fiyati-Hesaplayan-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Uslu-sayi-hesapla/Patika_Uslu-sayi-hesapla.iml" filepath="$PROJECT_DIR$/Patika_Uslu-sayi-hesapla/Patika_Uslu-sayi-hesapla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patika_Vucut-Kitle-Hesaplama/Patika_Vucut-Kitle-Hesaplama.iml" filepath="$PROJECT_DIR$/Patika_Vucut-Kitle-Hesaplama/Patika_Vucut-Kitle-Hesaplama.iml" />
+    </modules>
+  </component>
+</project>
